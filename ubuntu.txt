@@ -13,7 +13,8 @@
 #cf9f72
 #a87fad
 #e2e234
+#eceeee
 #eceeee (foreground)
-#240a30 (background)
+#1c1c1c (background)
 rgba(187,187,187,0.5) (cursor)
 
