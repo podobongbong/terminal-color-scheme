@@ -1,4 +1,6 @@
 # Terminal Color Scheme
 
-My Favorite Themes for Terminal
+Terminal Themes for WSL, PuTTY, and Blink Shell
 
+## Theme List
+- VSCode
